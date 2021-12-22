@@ -43,5 +43,6 @@ footer{
     font-style: italic;
     position: absolute;
     bottom: 20px;
-    left: 43vw;
+    width: 100%;
+    text-align: center;
 }
